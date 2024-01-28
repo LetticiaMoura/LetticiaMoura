@@ -10,9 +10,9 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LetticiaMoura&show_icons=true&count_private=true&hide_border=true&title_color=ffa875&icon_color=ff9830&text_color=c9d1d9&bg_color=0d1117" alt="Leticia Moura github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=letticiamoura&show_icons=true&count_private=true&hide_border=true&title_color=ffa875&icon_color=ff9830&text_color=c9d1d9&bg_color=0d1117" alt="Leticia Moura github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetticiaMoura&layout=compact&hide_border=true&title_color=ffa875&text_color=ff9830&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letticiamoura&layout=compact&hide_border=true&title_color=ffa875&text_color=ff9830&bg_color=0d1117" />
   
 </div>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   
-  <img align="center" src="https://profile-counter.glitch.me/{LetticiaMoura}/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/{letticiamoura}/count.svg" />
   
 </p> 
 <br>
