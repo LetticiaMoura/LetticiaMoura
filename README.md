@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc9662&height=130&section=header"/>
 
 <br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9830&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Leticia+Moura)](https://git.io/typing-svg)
 
@@ -36,5 +35,8 @@
 </p> 
 <br>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/letticiamoura/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc9662&height=130&section=footer"/>
