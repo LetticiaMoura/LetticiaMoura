@@ -2,7 +2,10 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9830&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Leticia+Moura)](https://git.io/typing-svg)
+<div style="display: flex;"> 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9830&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Leticia+Moura)](https://git.io/typing-svg)
+</div>
 
 <br>
 <br>
@@ -19,14 +22,16 @@
 <br>
 
 <div align="center"> 
-<a href="https://www.instagram.com/leticiamourah_?igsh=aGpoZHkzYWx2cDRy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "leticiamouralopes5@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leticia-moura-2157891a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <img width=30% src="https://github.com/user-attachments/assets/3207c982-9bd0-4bc5-b77d-54b472fcd58a"/>
+ <div>
+    <a href="https://www.instagram.com/leticiamourah_?igsh=aGpoZHkzYWx2cDRy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/leticia-moura-2157891a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
  </div>
  
 <div align="center">
   
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes</b></p>  
 
 <p align="center">
   
@@ -35,8 +40,5 @@
 </p> 
 <br>
 </div>
-
-![Snake animation](https://github.com/seu-usuário-aqui/letticiamoura/blob/output/github-contribution-grid-snake.svg)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc9662&height=130&section=footer"/>
